@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "esprima": "~2.4.0",
-    "falafel": "~0.3.1",
+    "falafel": "^1.1.0",
     "xtend": "~3.0.0"
   },
   "devDependencies": {
